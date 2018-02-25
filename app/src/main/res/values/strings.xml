@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">MessCall</string>
+    <string name="checking_permissions">Checking Permissions…</string>
+    <string name="all_permissions_done">All permissions granted.</string>
+    <string name="message_to_be_sent">Message to be sent:</string>
+    <string name="edit">Edit Message</string>
+    <string name="no_message">(No message content. Message will not be sent even if it
+        is turned on. Please press Edit to enter a message.)</string>
+    <string name="reject_calls_auto">Reject all incoming calls</string>
+    <string name="send_sms_auto">Send SMS to Missed calls</string>
+    <string name="set_timeout_message">Please use the slider to set the timeout.</string>
 </resources>
